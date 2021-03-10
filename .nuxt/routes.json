@@ -1,0 +1,58 @@
+[
+  {
+    "path": "/",
+    "name": "",
+    "component": "F:\\\\jty_workspace\\\\new_homework\\\\module3_part3_nuxt-real-word\\\\layouts\\\\main.vue",
+    "children": [
+      {
+        "path": "",
+        "name": "home",
+        "component": "F:\\\\jty_workspace\\\\new_homework\\\\module3_part3_nuxt-real-word\\\\pages\\\\index.vue",
+        "_name": "_04fe9476"
+      },
+      {
+        "name": "login",
+        "path": "/login",
+        "component": "F:\\\\jty_workspace\\\\new_homework\\\\module3_part3_nuxt-real-word\\\\pages\\\\login.vue",
+        "_name": "_62b390e6"
+      },
+      {
+        "name": "register",
+        "path": "/register",
+        "component": "F:\\\\jty_workspace\\\\new_homework\\\\module3_part3_nuxt-real-word\\\\pages\\\\login.vue",
+        "_name": "_62b390e6"
+      },
+      {
+        "name": "settings",
+        "path": "/settings",
+        "component": "F:\\\\jty_workspace\\\\new_homework\\\\module3_part3_nuxt-real-word\\\\pages\\\\settings.vue",
+        "_name": "_44cf67af"
+      },
+      {
+        "name": "article",
+        "path": "/article/:slug",
+        "component": "F:\\\\jty_workspace\\\\new_homework\\\\module3_part3_nuxt-real-word\\\\pages\\\\article.vue",
+        "_name": "_415d98cc"
+      },
+      {
+        "name": "editor",
+        "path": "/editor",
+        "component": "F:\\\\jty_workspace\\\\new_homework\\\\module3_part3_nuxt-real-word\\\\pages\\\\createArticle.vue",
+        "_name": "_3ea78bfe"
+      },
+      {
+        "name": "editorSlug",
+        "path": "/editor/:slug",
+        "component": "F:\\\\jty_workspace\\\\new_homework\\\\module3_part3_nuxt-real-word\\\\pages\\\\createArticle.vue",
+        "_name": "_3ea78bfe"
+      },
+      {
+        "name": "profile",
+        "path": "/profile/:username",
+        "component": "F:\\\\jty_workspace\\\\new_homework\\\\module3_part3_nuxt-real-word\\\\pages\\\\profile.vue",
+        "_name": "_8db94266"
+      }
+    ],
+    "_name": "_5b110cca"
+  }
+]
